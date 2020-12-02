@@ -21,6 +21,7 @@ void Day()
 void Time()
 {
 	printf("15h");
+	printf("1h");
 }
 void Pw_Check(char c[])
 {
