@@ -18,6 +18,10 @@ void Day()
 {
 	printf("Day");
 }
+void Water()
+{
+	printf("Hot");
+}
 void Time()
 {
 	printf("15h");
