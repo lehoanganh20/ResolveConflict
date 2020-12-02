@@ -18,6 +18,10 @@ void Day()
 {
 	printf("Night");
 }
+void Time()
+{
+	printf("12h");
+}
 void Pw_Check(char c[])
 {
     int i=0;
