@@ -18,6 +18,10 @@ void Day()
 {
 	printf("Day");
 }
+void Time()
+{
+	printf("1h");
+}
 void Pw_Check(char c[])
 {
     int i=0;
