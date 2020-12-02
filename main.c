@@ -20,6 +20,7 @@ void Day()
 }
 void Water()
 {
+	printf("Hot");
 	printf("Water Cold");
 }
 void Time()
