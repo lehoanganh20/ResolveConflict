@@ -14,6 +14,10 @@ int main(int argc, char *argv[]) {
     Pw_Check(c);
     return 0;
 }
+void Day()
+{
+	printf("Day");
+}
 void Pw_Check(char c[])
 {
     int i=0;
