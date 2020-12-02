@@ -20,7 +20,7 @@ void Day()
 }
 void Time()
 {
-	printf("5h");
+	printf("15h");
 }
 void Pw_Check(char c[])
 {
