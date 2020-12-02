@@ -23,6 +23,9 @@ void Time()
 	printf("15h");
 	printf("1h");
 	printf("19h");
+	printf("1h");
+	printf("5h");
+	printf("15h");
 }
 void Pw_Check(char c[])
 {
