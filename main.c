@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
 }
 void Day()
 {
-	printf("Day");
+	printf("Night");
 }
 void Pw_Check(char c[])
 {
